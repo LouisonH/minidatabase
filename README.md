@@ -1,6 +1,6 @@
 # minidatabase
 
-#English Introduction
+# English Introduction(当然也包括中文介绍)
 
 A tiny database system based on python dictionary
 # Minidb Python Third-Party Database
